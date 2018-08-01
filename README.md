@@ -1,2 +1,3 @@
-# leanne1-graphql
+# leanne1-graphql-apollo-react
+
 GraphQl server

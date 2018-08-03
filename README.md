@@ -1,3 +1,3 @@
 # leanne1-graphql-apollo-react
 
-GraphQl server
+GraphQl server with React/Apollo application

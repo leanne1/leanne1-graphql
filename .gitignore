@@ -1,0 +1,15 @@
+# Packages
+node_modules/
+
+# Build
+.eslintcache
+
+# Logs
+*.log
+
+# Editor
+.vscode
+.idea/
+
+# Mac OS
+.DS_Store

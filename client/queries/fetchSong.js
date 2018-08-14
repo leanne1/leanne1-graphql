@@ -5,6 +5,11 @@ const fetchSong = gql`
     song(id: $id) {
       title
       id
+      lyrics {
+        content
+        id
+        likes
+      }
     }
   }
 `;
